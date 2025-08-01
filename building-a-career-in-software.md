@@ -60,7 +60,7 @@
 
 * __pg. 15:__ Preparation:
 
-    * Solve a brunch of coding problems. Sites like [leetcode](www.leetcode.com) have large banks of practice questions.
+    * Solve a brunch of coding problems. Sites like [leetcode](https://www.leetcode.com) have large banks of practice questions.
 
     * Study your CS fundamentas, especially linked list,s, hash tables, trees, sorting, and the Big-O.
 
